@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1647314804,,"wq"
+|2,0,1648526709,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,38 +28,88 @@
 |3,1,36,0,1,0,1646884512," "
 
 # File marks:
-'0  1  12  ~/neereshfile3
-|4,48,1,12,1647314804,"~/neereshfile3"
-'1  2  41  ~/neereshfile2
-|4,49,2,41,1647314736,"~/neereshfile2"
-'2  1  22  ~/neereshfile2
-|4,50,1,22,1647314303,"~/neereshfile2"
-'3  1  22  ~/neereshfile2
-|4,51,1,22,1647314303,"~/neereshfile2"
-'4  1  22  ~/neereshfile1
-|4,52,1,22,1647314214,"~/neereshfile1"
-'5  1  21  ~/neereshfile
-|4,53,1,21,1646884864,"~/neereshfile"
-'6  1  22  ~/neereshfile
-|4,54,1,22,1646884754,"~/neereshfile"
-'7  1  22  ~/neereshfile
-|4,55,1,22,1646884664,"~/neereshfile"
+'0  3  25  ~/piyush1
+|4,48,3,25,1648526709,"~/piyush1"
+'1  1  0  ~/Piyush1
+|4,49,1,0,1648526632,"~/Piyush1"
+'2  1  12  ~/neereshfile3
+|4,50,1,12,1647314804,"~/neereshfile3"
+'3  2  41  ~/neereshfile2
+|4,51,2,41,1647314736,"~/neereshfile2"
+'4  1  22  ~/neereshfile2
+|4,52,1,22,1647314303,"~/neereshfile2"
+'5  1  22  ~/neereshfile2
+|4,53,1,22,1647314303,"~/neereshfile2"
+'6  1  22  ~/neereshfile1
+|4,54,1,22,1647314214,"~/neereshfile1"
+'7  1  21  ~/neereshfile
+|4,55,1,21,1646884864,"~/neereshfile"
 '8  1  22  ~/neereshfile
-|4,56,1,22,1646884664,"~/neereshfile"
-'9  1  23  ~/neereshfile1
-|4,57,1,23,1646884532,"~/neereshfile1"
+|4,56,1,22,1646884754,"~/neereshfile"
+'9  1  22  ~/neereshfile
+|4,57,1,22,1646884664,"~/neereshfile"
 
 # Jumplist (newest first):
+-'  3  25  ~/piyush1
+|4,39,3,25,1648526709,"~/piyush1"
+-'  1  0  ~/piyush1
+|4,39,1,0,1648526674,"~/piyush1"
+-'  1  0  ~/Piyush1
+|4,39,1,0,1648526632,"~/Piyush1"
+-'  1  0  ~/Piyush1
+|4,39,1,0,1648526632,"~/Piyush1"
+-'  1  12  ~/neereshfile3
+|4,39,1,12,1647314804,"~/neereshfile3"
+-'  1  12  ~/neereshfile3
+|4,39,1,12,1647314804,"~/neereshfile3"
+-'  1  12  ~/neereshfile3
+|4,39,1,12,1647314804,"~/neereshfile3"
 -'  1  12  ~/neereshfile3
 |4,39,1,12,1647314804,"~/neereshfile3"
 -'  2  41  ~/neereshfile2
 |4,39,2,41,1647314736,"~/neereshfile2"
 -'  2  41  ~/neereshfile2
 |4,39,2,41,1647314736,"~/neereshfile2"
+-'  2  41  ~/neereshfile2
+|4,39,2,41,1647314736,"~/neereshfile2"
+-'  2  41  ~/neereshfile2
+|4,39,2,41,1647314736,"~/neereshfile2"
+-'  2  41  ~/neereshfile2
+|4,39,2,41,1647314736,"~/neereshfile2"
+-'  2  41  ~/neereshfile2
+|4,39,2,41,1647314736,"~/neereshfile2"
+-'  2  41  ~/neereshfile2
+|4,39,2,41,1647314736,"~/neereshfile2"
+-'  2  41  ~/neereshfile2
+|4,39,2,41,1647314736,"~/neereshfile2"
 -'  1  22  ~/neereshfile2
 |4,39,1,22,1647314695,"~/neereshfile2"
 -'  1  22  ~/neereshfile2
 |4,39,1,22,1647314695,"~/neereshfile2"
+-'  1  22  ~/neereshfile2
+|4,39,1,22,1647314695,"~/neereshfile2"
+-'  1  22  ~/neereshfile2
+|4,39,1,22,1647314695,"~/neereshfile2"
+-'  1  22  ~/neereshfile2
+|4,39,1,22,1647314695,"~/neereshfile2"
+-'  1  22  ~/neereshfile2
+|4,39,1,22,1647314695,"~/neereshfile2"
+-'  1  22  ~/neereshfile2
+|4,39,1,22,1647314695,"~/neereshfile2"
+-'  1  22  ~/neereshfile2
+|4,39,1,22,1647314695,"~/neereshfile2"
+-'  1  22  ~/neereshfile2
+|4,39,1,22,1647314303,"~/neereshfile2"
+-'  1  22  ~/neereshfile2
+|4,39,1,22,1647314303,"~/neereshfile2"
+-'  1  22  ~/neereshfile2
+|4,39,1,22,1647314303,"~/neereshfile2"
+-'  1  22  ~/neereshfile2
+|4,39,1,22,1647314303,"~/neereshfile2"
+-'  1  22  ~/neereshfile2
+|4,39,1,22,1647314303,"~/neereshfile2"
+-'  1  22  ~/neereshfile2
+|4,39,1,22,1647314303,"~/neereshfile2"
 -'  1  22  ~/neereshfile2
 |4,39,1,22,1647314303,"~/neereshfile2"
 -'  1  22  ~/neereshfile2
@@ -80,6 +130,54 @@
 |4,39,1,22,1647314214,"~/neereshfile1"
 -'  1  22  ~/neereshfile1
 |4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
+-'  1  22  ~/neereshfile1
+|4,39,1,22,1647314214,"~/neereshfile1"
 -'  1  21  ~/neereshfile
 |4,39,1,21,1646884864,"~/neereshfile"
 -'  1  21  ~/neereshfile
@@ -112,146 +210,62 @@
 |4,39,1,21,1646884864,"~/neereshfile"
 -'  1  21  ~/neereshfile
 |4,39,1,21,1646884864,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884754,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  22  ~/neereshfile
-|4,39,1,22,1646884664,"~/neereshfile"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
--'  1  23  ~/neereshfile1
-|4,39,1,23,1646884532,"~/neereshfile1"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
+-'  1  21  ~/neereshfile
+|4,39,1,21,1646884864,"~/neereshfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/piyush1
+	*	1648526705	0
+	"	3	25
+	^	3	26
+	.	3	25
+	+	3	25
+
+> ~/Piyush1
+	*	1648526618	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
 
 > ~/neereshfile3
 	*	1647314801	0
